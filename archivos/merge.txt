@@ -1,3 +1,7 @@
 David Alejandro Lopez Zapata
 20
 Adquirir nuevas habilidades relacionadas a la programacion orientada a objetos que me permitan mejorar como programador.
+Debido a que ahora si hay un archivo dentro de la carpeta es posible hacer el commit.
+Hay que tener mucho cuidado para asi evitar generar conflictos entre la version local y la version del repositorio de github.
+
+
