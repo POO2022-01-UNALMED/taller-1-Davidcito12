@@ -1,0 +1,1 @@
+Era imposible hacer commit ya que no tomaba una carpeta vacia como un cambio.
